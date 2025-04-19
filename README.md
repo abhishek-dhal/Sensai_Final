@@ -26,8 +26,6 @@ Backend	Node.js, Prisma ORM, Inngest
 Database	PostgreSQL (via Neon)
 Authentication	Clerk
 AI Integration	Gemini API
-📸 Screenshots
-(Add real screenshots of the dashboard, resume builder, etc.)
 
 
 
